@@ -1,6 +1,3 @@
 #!/usr/bin/python3
-
-alphabet = 'abcdefghijklmnopqrstuvwxyz'
-for char in alphabet:
-	print(char)
-
+for char in 'abcdefghijklmnopqrstuvwxyz':
+    print(char)
