@@ -3,5 +3,3 @@
 f = open('zen.txt','r')
 message = f.read()
 print (message)
-
-f.close ()
